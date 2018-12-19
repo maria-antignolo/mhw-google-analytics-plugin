@@ -15,12 +15,12 @@ Prerequisites:
 
 This plugin follows the Cordova 3.0+ plugin spec, so it can be installed through the Cordova CLI in your existing Cordova project:
 ```bash
-cordova plugin add https://github.com/cubetechnology/google-analytics-plugin.git
+cordova plugin add https://github.com/maria-antignolo/mhw-google-analytics-plugin.git
 ```
 
 This plugin is also available on npm if you are using Cordova 5.0+:
 ```bash
-cordova plugin add cordova-plugin-google-analytics
+cordova plugin add cordova-plugin-mhw-google-analytics
 ```
 
 ... OR the Cordova Plugin Registry if you are using a version of Cordova before 5.0 (while it remains open, as it is planning to shut down soon due to the move to npm):
